@@ -15,3 +15,7 @@ You can now connect to `http://yourhost:8001` and enjoy Jamstash.
 ### 80
 
 Web app port
+
+### 443
+
+HTTPS port

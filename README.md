@@ -1,5 +1,7 @@
 # docker-jamstash
 
+[![](https://badge.imagelayers.io/hyzual/jamstash:latest.svg)](https://imagelayers.io/?images=hyzual/jamstash:latest 'Get your own badge on imagelayers.io')
+
 A Dockerfile for [Jamstash][jamstash]. Uses nginx.
 
 Use the following command to run it on port 8001 of your host machine :

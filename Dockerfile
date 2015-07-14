@@ -1,4 +1,4 @@
-FROM nginx:1.7.10
+FROM nginx:1.9.2
 
 MAINTAINER Hyzual "hyzual@gmail.com"
 
